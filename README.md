@@ -256,7 +256,7 @@ A: **IPTV Smarters Pro** — free, full-featured, supports both M3U and Xtream C
 
 Maintained by the **Best IPTV Service 2026 Guide** team. We test IPTV services and devices independently. Editorial methodology: [StreamReviewHQ Methodology](https://streamreviewhq.com/methodology/).
 
-**Last verified: July 20, 2026** April 2026 on Fire TV Stick 4K Max running Fire OS 7.6.
+**Last verified: July 21, 2026** April 2026 on Fire TV Stick 4K Max running Fire OS 7.6.
 
 ⭐ **Star this repo** if it helped you set up IPTV on your Firestick.
 
